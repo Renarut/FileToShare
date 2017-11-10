@@ -1,0 +1,9 @@
+C:\Users\narut\Desktop\FileToPrint - 共享\FileToPrint\obj\Debug\ShareSync.frmFiletoFTP.resources
+C:\Users\narut\Desktop\FileToPrint - 共享\FileToPrint\obj\Debug\ShareSync.frmSysParams.resources
+C:\Users\narut\Desktop\FileToPrint - 共享\FileToPrint\obj\Debug\ShareSync.csproj.GenerateResource.Cache
+C:\Users\narut\Desktop\FileToPrint - 共享\FileToPrint\bin\Debug\ShareSync.exe.config
+C:\Users\narut\Desktop\FileToPrint - 共享\FileToPrint\bin\Debug\ShareSync.exe
+C:\Users\narut\Desktop\FileToPrint - 共享\FileToPrint\bin\Debug\ShareSync.pdb
+C:\Users\narut\Desktop\FileToPrint - 共享\FileToPrint\obj\Debug\ShareSync.Properties.Resources.resources
+C:\Users\narut\Desktop\FileToPrint - 共享\FileToPrint\obj\Debug\ShareSync.exe
+C:\Users\narut\Desktop\FileToPrint - 共享\FileToPrint\obj\Debug\ShareSync.pdb

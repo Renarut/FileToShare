@@ -1,0 +1,18 @@
+c:\users\narut\documents\visual studio 2015\Projects\FileToPrint\FileToPrint\bin\Debug\FileToPrint.exe.config
+c:\users\narut\documents\visual studio 2015\Projects\FileToPrint\FileToPrint\bin\Debug\FileToPrint.exe
+c:\users\narut\documents\visual studio 2015\Projects\FileToPrint\FileToPrint\bin\Debug\FileToPrint.pdb
+c:\users\narut\documents\visual studio 2015\Projects\FileToPrint\FileToPrint\obj\Debug\FileToPrint.Properties.Resources.resources
+c:\users\narut\documents\visual studio 2015\Projects\FileToPrint\FileToPrint\obj\Debug\FileToPrint.csproj.GenerateResource.Cache
+c:\users\narut\documents\visual studio 2015\Projects\FileToPrint\FileToPrint\obj\Debug\FileToPrint.exe
+c:\users\narut\documents\visual studio 2015\Projects\FileToPrint\FileToPrint\obj\Debug\FileToPrint.pdb
+C:\Users\narut\documents\visual studio 2015\Projects\FileToPrint\FileToPrint\obj\Debug\FileToPrint.frmFiletoPrint.resources
+C:\Users\narut\documents\visual studio 2015\Projects\FileToPrint\FileToPrint\obj\Debug\FileToPrint.frmSysParams.resources
+C:\Users\Administrator\Desktop\FileToPrint\FileToPrint\bin\Debug\FileToPrint.exe.config
+C:\Users\Administrator\Desktop\FileToPrint\FileToPrint\obj\Debug\FileToPrint.exe
+C:\Users\Administrator\Desktop\FileToPrint\FileToPrint\obj\Debug\FileToPrint.pdb
+C:\Users\Administrator\Desktop\FileToPrint\FileToPrint\bin\Debug\FileToPrint.exe
+C:\Users\Administrator\Desktop\FileToPrint\FileToPrint\bin\Debug\FileToPrint.pdb
+C:\Users\Administrator\Desktop\FileToPrint\FileToPrint\obj\Debug\FileToPrint.frmFiletoPrint.resources
+C:\Users\Administrator\Desktop\FileToPrint\FileToPrint\obj\Debug\FileToPrint.frmSysParams.resources
+C:\Users\Administrator\Desktop\FileToPrint\FileToPrint\obj\Debug\FileToPrint.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FileToPrint\FileToPrint\obj\Debug\FileToPrint.csproj.GenerateResource.Cache
